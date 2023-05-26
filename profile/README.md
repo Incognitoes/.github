@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to Rocksolid's GitHub repository!
+
+Rocksolid is a dynamic software startup founded by a group of passionate and talented students. Our mission is to create robust and reliable solutions for your technological needs, driven by a strong desire to make a positive impact in the industry.
+
+### Features
+
+As a team of students-turned-entrepreneurs, we bring fresh ideas and innovative solutions to the table. 
+<!-- Rocksolid's software solutions are designed with the following key features in mind: -->
 
 <!--
 
